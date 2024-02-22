@@ -1,3 +1,4 @@
-# LeetCode
-All LeetCode with c# dotnet
-Using Xunit
+# LeetCode Dotnet
+- All LeetCode with c# dotnet
+# Test
+- Xunit
